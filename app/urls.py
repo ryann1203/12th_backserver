@@ -1,0 +1,5 @@
+
+appname = "app"
+urlpatterns = [
+
+]
